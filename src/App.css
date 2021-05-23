@@ -1,3 +1,308 @@
+.topNavBar{
+  height: 68px;
+  width: 1537.2px;
+  background-color: rgba(0,47,52,.03);
+  padding: 0px;
+}
+.image{
+  position: relative;
+  left: 107px;
+  top: 9px;
+}
+.serachImage{
+  position: relative;
+  left: 1px;
+  top: 2px;
+}
+.dropDown{
+  display: flex;
+  align-items: center;
+  height: 48px;
+  background: #fff;
+  padding: 0 8px;
+  box-sizing: border-box;
+  border: 2px solid #002f34;
+  border-radius: 4px;
+}
+.dd-wrapper{
+  height: 48px;
+  width: 272px;
+  max-height: 320px;
+  overflow: unset;
+  z-index: 6; 
+  border: 2px solid #002f34;
+  border-radius: 4px;
+  position: relative;
+  left: 170px;
+  top: -39px;
+  background: #fff;
+}
+.dd-list{
+  border: 2px solid #002f34;
+  border-radius: 4px;
+  border: 2px solid #fff;
+  height: 40px;
+  width: 230px;
+  position: relative;
+  top: -40px;
+  left: 36px;
+  text-align: justify;
+  font-size: 17px;
+}
+.dd-search{
+  display: flex;
+  width: 684.48px;
+  margin-left: 16px;
+  height: 48px;
+  box-sizing: border-box;
+  border: 2px solid #002f34;
+  border-radius: 4px 0 0 4px;
+  position: relative;
+  top: -87px;
+  left: 445px;
+}
+.dd-box{
+  min-width: 48px;
+  height: 48px;
+  display: flex;
+  cursor: pointer;
+  background-color: #002f34;
+  border-radius: 0 4px 4px 0;
+  width: 48px;
+  position: relative;
+  top: -135px;
+  left: 1145px;
+}
+.search-Icon{
+  position: relative;
+  top: -176px;
+  left: 1155px;
+}
+.link{
+  color: #002f34;
+  font-size: 16px;
+  position: relative;
+  left: 1195px;
+  top: -175px;
+  font-weight: 800;
+  cursor: pointer;
+  line-height: normal;
+}
+.navBar{
+  height: 44px;
+  width: 1600px;
+}
+li{
+  list-style: none;
+  display: inline;
+  margin-left: 13px;
+  margin-right: 16px;
+  font-size: 15px;
+}
+.li-List{
+  text-transform: uppercase;
+  font-weight: 700;
+  cursor: pointer;
+  color: #002f34
+}
+.bg-image{
+  background-image: url(https://statics.olx.com.pk/external/base/img/hero_bg_pk.jpg);
+  height: 252px;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-size: cover;
+  position: absolute;
+  top: 112px;
+  left: 0;
+  right: 0;
+  z-index: 1;
+}
+.rec{
+  font-size: 24px;
+  color: #002f34;
+  margin: 0 0 8px;
+  position: relative;
+  font-weight: 500;
+  top: 283px;
+  left: 180px;
+}
+.card{
+  width: 286px;
+  height: 264px;
+  border: 1px solid rgba(0,47,52,.2);
+  margin-top: 20px;
+}
+.cardImage{
+  display: block;
+  margin: auto;
+}
+figure {
+  position: relative;
+  background-color: #fff;
+  padding: 8px;
+  box-sizing: border-box;
+}
+._2grx4 img {
+  display: block;
+  margin: auto;
+}
+.IKo3_ {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  position: relative;
+  padding: 8px 16px;
+}
+.IKo3_ {
+  border-left: 5px solid #ffce32;
+  position: relative;
+  top: -30px;
+}
+
+label>span {
+  background-color: #ffce32;
+  color: #002f34;
+  width: fit-content;
+  height: fit-content;
+}
+label>span {
+  font-size: 10px;
+  padding: 4px 8px;
+  font-weight: 700;
+  display: block;
+}
+label {
+  position: absolute;
+  top: -130px;
+  left: -10px;
+  text-transform: uppercase;
+  padding: 0;
+}
+.card:hover{
+  cursor: pointer;
+}
+
+.IKo3_ ._89yzn {
+  direction: ltr;
+  font-weight: 700;
+  margin-bottom: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: #002f34;
+  font-size: 20px;
+}
+
+.IKo3_ ._2tW1I {
+  font-weight: 400;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-top: 5px;
+}
+.IKo3_ label {
+  text-align: left;
+  display: block;
+}
+.IKo3_ ._2tW1I {
+  color: rgba(0,47,52,.64);
+  font-size: 14px;
+}
+
+.IKo3_ label {
+  margin: 5px 0;
+  position: relative;
+  z-index: 2;
+}
+ .tjgMj {
+  color: rgba(0,47,52,.64);
+  display: inline-block;
+  max-width: 70%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.zLvFQ{
+  font-size: 15px;
+  margin-left: 20px;
+}
+.container{
+  margin-top: 300px;
+}
+
+.footer{
+  width: 1519.2px;
+  height: 213px;
+  margin-top: 50px;
+}
+.footerTop{
+  width: 1519.2px;
+  height: 163.4px;
+  display: flex;
+  background: #ebeeef;
+  padding: 16px 0 32px;
+  border-top: 1px solid rgba(0,47,52,.2);
+  font-size: 14px;
+  line-height: 20px;
+}
+.footerBottom{
+  width: 1519.2px;
+  height: 49.6px;
+  color: #fff;
+  font-size: 12px;
+  line-height: 18px;
+  background: #002f34;
+  padding: 16px 0;
+}
+#countrySpan{
+  color: #fff;
+  font-size: 12px;
+  line-height: 18px;
+  background: #002f34;
+  padding: 16px 0;
+  font-weight: 900;
+  margin-left: 191px;
+}
+
+#ISI{
+  margin-left: 13px;
+}
+#pakistan{
+  color: #fff;
+  font-size: 12px;
+  line-height: 18px;
+  background: #002f34;
+  padding: 10px 0;
+  font-weight: 900;
+  margin-left: 550px;
+}
+
+
+#OLX{
+  margin-left: 630px;
+}
+
+.PCate{
+  list-style: none;
+  display: block;
+  font-weight: 400;
+    text-transform: none;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 12px;
+    color: #002f34;
+    color: rgba(0,47,52,.64);
+    margin-left: -39px;
+}
+section{
+padding-left: 40px;
+  font-weight: 700;
+  text-transform: uppercase;
+  flex-basis: 20%;
+}
+
+
 .App {
   text-align: center;
 }
@@ -36,3 +341,4 @@
     transform: rotate(360deg);
   }
 }
+/* Dynamic CSS */
